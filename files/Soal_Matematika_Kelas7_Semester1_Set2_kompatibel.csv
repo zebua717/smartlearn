@@ -1,0 +1,51 @@
+pertanyaan,A,B,C,D,kunci,skor
+Lawan dari bilangan -8 adalah?,0,-8,8,16,C,10
+Hasil dari -9 + 4 adalah?,5,-5,13,-13,B,10
+Hasil dari 6 - 11 adalah?,-5,5,17,-17,A,10
+Hasil dari -7 × 5 adalah?,35,12,-12,-35,D,15
+Hasil dari 48 : (-6) adalah?,8,-8,42,-42,B,15
+Hasil dari -10 - (-4) + (-2) adalah?,-8,-16,-4,4,A,15
+Hasil dari 20 - 6 × (-2) adalah?,8,-28,32,-8,C,20
+Suhu freezer -8°C; lalu turun 5°C; kemudian naik 3°C. Suhu akhir adalah?,-16°C,-10°C,0°C,-6°C,B,20
+Hasil dari (-3) × (-4) + (-20) : 5 adalah?,-8,16,8,-16,C,25
+Bentuk desimal dari 1/4 adalah?,0.4,0.14,0.25,0.5,C,10
+Bentuk persen dari 1/2 adalah?,12%,20%,25%,50%,D,10
+Pecahan paling sederhana dari 6/9 adalah?,3/2,2/3,6/9,1/3,B,10
+Hasil dari 2/5 + 1/5 adalah?,3/5,3/10,2/10,1/5,A,15
+Hasil dari 5/6 - 1/3 adalah?,1/2,4/3,4/6,1/3,A,15
+Hasil dari 3/4 × 8 adalah?,6,24,11/4,2,A,15
+Hasil dari 2/3 : 4/9 adalah?,2/3,8/27,1 1/2,3/4,C,20
+Andi membaca 1/4 buku pada hari pertama dan 2/5 pada hari kedua. Bagian buku yang sudah dibaca adalah?,3/9,13/20,3/20,1/2,B,20
+Tali sepanjang 12 m dipotong menjadi bagian masing-masing 3/4 m. Banyak potongan tali adalah?,16,9,12,48,A,25
+Kelipatan 5 yang kurang dari 20 adalah?,5; 15; 25,5; 10; 15; 20,1; 5,5; 10; 15,D,10
+Bilangan berikut yang merupakan bilangan prima adalah?,9,17,15,21,B,10
+FPB dari 16 dan 24 adalah?,4,8,48,2,B,15
+KPK dari 6 dan 9 adalah?,3,54,18,15,C,15
+Faktorisasi prima dari 48 adalah?,6 × 8,2^3 × 3,2^4 × 3^2,2^4 × 3,D,15
+Ali berenang setiap 4 hari sekali dan Budi setiap 6 hari sekali. Mereka berenang bersama lagi setelah ... hari.,24,10,12,2,C,20
+18 pensil dan 30 buku dibagikan rata ke beberapa anak. Jumlah anak terbanyak adalah?,6,3,12,90,A,20
+FPB dan KPK dari 18 dan 24 berturut-turut adalah?,3 dan 72,6 dan 144,6 dan 72,6 dan 36,C,25
+Hasil dari 4^2 adalah?,8,6,16,12,C,10
+Hasil dari √64 adalah?,8,32,6,7,A,10
+Hasil dari 6^2 - 2^3 adalah?,30,28,44,10,B,15
+Hasil dari √81 + √16 adalah?,97,13,5,25,B,15
+Bentuk sederhana dari 4^5 : 4^3 adalah?,4,4^8,16,8,C,15
+Hasil dari 3^3 + √100 adalah?,30,19,127,37,D,20
+Hasil dari (2^3)^2 adalah?,2^5,32,64,128,C,20
+Jika 3^x = 81; maka nilai x adalah?,4,3,27,9,A,25
+Himpunan B = {a; i; u; e; o}. Banyak anggota B adalah?,4,3,6,5,D,10
+Diketahui K adalah himpunan bilangan genap antara 1 dan 11. Anggota K adalah?,{1; 3; 5; 7; 9},{2; 4; 6; 8; 10},{2; 4; 6; 8},{0; 2; 4; 6; 8},B,10
+Lambang 'anggota dari' dalam himpunan adalah?,∪,⊂,∈,∩,C,10
+Jika A = {2; 4; 6} dan B = {4; 6; 8} maka A ∩ B adalah?,{4; 6},{2; 4; 6; 8},{2; 8},{2},A,15
+Jika P = {1; 2} dan Q = {2; 3; 4} maka P ∪ Q adalah?,{1; 2; 3; 4},{2},{1},{3; 4},A,15
+Banyak himpunan bagian dari {p; q; r; s} adalah?,8,32,4,16,D,15
+Dari 25 anak; 14 suka bakso; 11 suka mie ayam; dan 6 suka keduanya. Banyak anak yang hanya suka mie ayam adalah?,8,11,6,5,D,20
+Dari 35 siswa; 20 ikut Pramuka; 18 ikut PMR; dan 4 tidak ikut keduanya. Banyak siswa yang ikut kedua kegiatan adalah?,7,5,11,2,A,25
+Konstanta pada bentuk 4x + 7 adalah?,4,4x,x,7,D,10
+Bentuk 6y - 2y dapat disederhanakan menjadi?,8y,4y,4,3y,B,10
+Hasil dari 5a + 2b - 3a adalah?,2a + 5b,4ab,7a + 2b,2a + 2b,D,15
+Hasil dari 3(2x + 4) adalah?,6x + 12,6x + 4,5x + 7,6x + 7,A,15
+Bentuk sederhana dari 8p - 3 - 2p + 5 adalah?,6p + 8,6p - 2,10p + 2,6p + 2,D,15
+Hasil dari 2(3x - 2) - 4 adalah?,5x - 8,6x - 4,6x,6x - 8,D,20
+Hasil dari (x + 4)(x + 2) adalah?,x^2 + 8,x^2 + 6x + 8,x^2 + 8x + 6,2x + 6,B,20
+Jika a = 2 dan b = 3; maka nilai dari 3a + 2b^2 adalah?,12,24,30,21,B,25

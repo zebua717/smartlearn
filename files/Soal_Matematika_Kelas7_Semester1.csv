@@ -1,0 +1,51 @@
+pertanyaan,A,B,C,D,kunci,skor
+Bilangan bulat negatif terbesar adalah?,0,-1,1,-10,B,10
+Hasil dari -7 + 10 adalah?,-3,17,3,-17,C,10
+Hasil dari 8 - 15 adalah?,7,-7,23,-23,B,10
+Hasil dari -6 × (-4) adalah?,-24,-10,24,10,C,15
+Hasil dari -36 : 9 adalah?,-4,4,27,-27,A,15
+Hasil dari -5 + (-8) - (-3) adalah?,6,-16,0,-10,D,15
+Hasil dari 12 + (-4) × 3 adalah?,0,24,-24,36,A,20
+Suhu mula-mula -3°C; naik 8°C; lalu turun 5°C. Suhu akhir adalah?,6°C,0°C,-10°C,16°C,B,20
+Hasil dari -100 : (-4) : 5 + (-3) adalah?,8,-2,2,-8,C,25
+Bentuk desimal dari 1/2 adalah?,0.2,0.25,0.5,2.0,C,10
+Bentuk persen dari 3/4 adalah?,34%,43%,60%,75%,D,10
+Pecahan yang senilai dengan 2/4 adalah?,4/5,2/3,3/4,1/2,D,10
+Hasil dari 1/3 + 1/6 adalah?,2/9,2/6,1/2,1/9,C,15
+Hasil dari 3/4 - 1/2 adalah?,1/4,2/2,1/2,2/6,A,15
+Hasil dari 2/3 × 3/5 adalah?,2/5,5/8,6/8,5/15,A,15
+Hasil dari 3/4 : 1/2 adalah?,3/8,3/6,2/3,1 1/2,D,20
+Urutan pecahan dari yang terkecil dari 2/3; 1/2; 3/4 adalah?,2/3; 1/2; 3/4,1/2; 2/3; 3/4,3/4; 2/3; 1/2,1/2; 3/4; 2/3,B,20
+Ibu punya 3/4 kg gula. Dipakai 1/3 bagiannya untuk membuat kue. Sisa gula adalah?,1/2 kg,1/4 kg,2/3 kg,1/12 kg,A,25
+Faktor dari 12 adalah?,1; 2; 3; 12,1; 2; 3; 4; 6; 12,2; 4; 6; 12,1; 3; 4; 12,B,10
+Bilangan prima antara 1 dan 10 adalah?,1; 2; 3; 5,2; 4; 6; 8,1; 3; 5; 7,2; 3; 5; 7,D,10
+FPB dari 12 dan 18 adalah?,2,3,36,6,D,15
+KPK dari 4 dan 6 adalah?,2,12,24,10,B,15
+Faktorisasi prima dari 36 adalah?,2 × 3^2,6^2,4 × 9,2^2 × 3^2,D,15
+Lampu A menyala setiap 6 detik dan lampu B setiap 8 detik. Keduanya menyala bersama setiap ... detik.,24,14,48,2,A,20
+Ibu membagi 24 apel dan 36 jeruk ke dalam kantong sama banyak. Jumlah kantong terbanyak adalah?,6,72,4,12,D,20
+FPB dan KPK dari 24 dan 40 berturut-turut adalah?,4 dan 120,8 dan 120,8 dan 240,8 dan 60,B,25
+Hasil dari 2^3 adalah?,6,9,8,5,C,10
+Hasil dari √49 adalah?,7,24.5,6,8,A,10
+Hasil dari 5^2 + 3^2 adalah?,16,30,64,34,D,15
+Hasil dari 10^3 adalah?,30,1000,100,300,B,15
+Hasil dari 2^2 × 2^3 adalah?,2^6,2^1,32,64,C,15
+Hasil dari √144 + √25 adalah?,13,17,169,7,B,20
+Bentuk sederhana dari 3^4 : 3^2 adalah?,3^8,81,3^6,9,D,20
+Jika 2^x = 64; maka nilai x adalah?,5,32,6,8,C,25
+Himpunan A = {1; 2; 3; 4}. Banyak anggota himpunan A adalah?,3,5,4,10,C,10
+Lambang himpunan kosong adalah?,{ },{0},{∅},S,A,10
+Diketahui P adalah himpunan bilangan ganjil kurang dari 10. Anggota P adalah?,{1; 3; 5; 7; 9},{2; 4; 6; 8},{1; 3; 5; 7},{3; 5; 7; 9},A,10
+Jika A = {1; 2; 3} dan B = {2; 3; 4} maka A ∩ B adalah?,{1; 2; 3; 4},{2; 3},{1; 4},{1},B,15
+Jika A = {1; 2; 3} dan B = {3; 4; 5} maka A ∪ B adalah?,{3},{1; 2},{1; 2; 3; 4; 5},{4; 5},C,15
+Jika P = {a; b; c} banyak himpunan bagian dari P adalah?,3,6,9,8,D,15
+Dari 30 siswa; 18 suka Matematika; 15 suka IPA; dan 8 suka keduanya. Banyak siswa yang hanya suka Matematika adalah?,8,18,10,7,C,20
+Dari 40 siswa; 25 ikut klub musik; 20 ikut klub tari; dan 5 tidak ikut keduanya. Banyak siswa yang ikut kedua klub adalah?,5,10,15,45,B,25
+Koefisien dari 5x adalah?,5,x,5x,1,A,10
+Bentuk 3a + 2a dapat disederhanakan menjadi?,5a^2,6a,5a,32a,C,10
+Hasil dari 7x - 3x + 2 adalah?,4x + 2,6x,4 + 2x,10x + 2,A,15
+Hasil dari 2(x + 3) adalah?,2x + 6,2x + 3,x + 6,2x + 5,A,15
+Bentuk sederhana dari 4x + 3y - 2x + y adalah?,6xy,6x + 4y,2x + 3y,2x + 4y,D,15
+Hasil dari 3(2x - 1) + 4 adalah?,6x - 1,6x + 1,6x + 3,5x + 1,B,20
+Hasil dari (x + 2)(x + 3) adalah?,x^2 + 5x + 6,x^2 + 6,x^2 + 6x + 5,2x + 5,A,20
+Jika x = 3; maka nilai dari 2x^2 - 4x + 1 adalah?,13,7,1,25,B,25
